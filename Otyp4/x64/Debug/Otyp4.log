@@ -1,0 +1,3 @@
+﻿  Otyp4.cpp
+C:\Users\Eugine\source\repos\Otyp4\Otyp4\Otyp4.cpp(614,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  Otyp4.vcxproj -> C:\Users\Eugine\source\repos\Otyp4\x64\Debug\Otyp4.exe
